@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:ede9fe,100:cffafe&height=220&section=header&text=Dmytro%20Podvirnyi&fontSize=52&fontColor=0f172a&fontAlignY=40&desc=SENIOR%20FULL-STACK%20ENGINEER&descAlignY=60&descSize=14" width="100%" alt="header" />
 
 <a href="https://github.com/podvirnyi">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=0E7490&center=true&vCenter=true&width=640&background=F6F8FA&lines=Scalable+SaaS+%C2%B7+Access+control+%C2%B7+Media+pipelines;From+first+architecture+decision+to+production;I+stay+accountable+for+how+it+behaves+after+release" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=0E7490&center=true&vCenter=true&width=640&lines=Scalable+SaaS+%C2%B7+Access+control+%C2%B7+Media+pipelines;From+first+architecture+decision+to+production;I+stay+accountable+for+how+it+behaves+after+release" alt="typing" />
 </a>
 
 <br/>
