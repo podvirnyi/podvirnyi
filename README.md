@@ -19,7 +19,7 @@
 
 <div align="center">
 
-### `// TECH STACK`
+### `TECH STACK`
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-f6f8fa?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/React-f6f8fa?style=for-the-badge&logo=react&logoColor=0EA5C6)
