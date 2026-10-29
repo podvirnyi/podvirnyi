@@ -98,19 +98,6 @@ I care about code the next developer can understand, about trade-offs over trend
 
 <br/>
 
-## `GITHUB STATS`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&bg_color=ffffff&border_color=d0d7de&title_color=0e7490&icon_color=7c3aed&text_color=334155" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&bg_color=ffffff&border_color=d0d7de&title_color=0e7490&text_color=334155" alt="languages" />
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&background=ffffff&stroke=d0d7de&ring=0e7490&fire=7c3aed&currStreakLabel=0e7490&currStreakNum=334155&sideNums=334155&sideLabels=64748b&dates=64748b" alt="streak" />
-
-</div>
-
-<br/>
-
 ## `CURRENTLY FOCUSED ON`
 
 <div align="center">
